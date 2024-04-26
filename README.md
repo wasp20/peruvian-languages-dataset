@@ -2,7 +2,7 @@
 
 
 
-| Document Id  | Language      | Document title | Year  | Link |
+|Id  | Language      | Title | Year  | Link |
 |:------------:|:-------------:|:---------------:|:-----:| -----|
 |L3|Asháninka|Shitsa pajitachari anquilostoma aisati ameba|1984|https://www.sil.org/system/files/reapdata/13/00/81/130081786122950199836183493483933219335/asha_lcn5.pdf|
 |L4|Asháninka|Campa 2|1973|https://www.sil.org/system/files/reapdata/66/51/70/66517002344487556469066102303652242853/asha_ll2.pdf|
